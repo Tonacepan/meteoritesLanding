@@ -36,5 +36,3 @@ Este proyecto tiene como objetivo analizar los registros históricos de meteorit
 ## 🚀 Instrucciones de Uso
 
 1. **Clona el repositorio o sube el archivo a Colab:**
-   ```bash
-   git clone https://github.com/usuario/meteorite-analysis.git
